@@ -1,0 +1,81 @@
+id,card_name,rank,race1,race2,effet
+1,Brann Barbe-de-Bronze,5,,,Vos Cris de guerre se déclenche deux fois
+2,Rylak fan de métal,4,Bête,,Provocation. Râle d'agonie : déclanche le Cri de guerre d'un serviteur adjacent à celui-ci.
+3,Anomalie actualisante,4,Elémentaire,,Cri de guerre : gagne 2 actualisations gratuites
+4,Titus Vallefendre,5,,,Vos Râles d'agonie se déclenchent une fois supplémentaire.
+5,Ara monstrueux,4,Bête,,Ralliment : déclenche votre Râle d'agonie le plus à gauche (sauf celui de ce serviteur)
+6,Collectionneur de coquillages,2,Naga,,Cri de guerre : vous obtenez une carte Pièce de la taverne.
+7,Enchanteresse drakkari,5,,,Vos effets de fin de tour se déclenchent deux fois.
+8,Poète invétéré,4,Dragon,,
+9,Leeroy le Téméraire,5,,,Râle d'agonie : détruit le serviteur qui l'a tué.
+10,Réprouvée sans bras,3,,,Râle d'agonie : invoque une main 2/1 avec Réincarnation.
+11,Frappeuse mortelle,6,,,Vengeance (4) : vous obtenez un Mort-Vivant aléatoire. Râle d'agonie : l'invoque depuis votre main pour ce combat uniquement.
+12,Geist sympathique,4,Mort-vivant,,Râle d'agonie : vos sorts de la taverne donnent +1 ATQ en plus pendant cette partie.
+13,Les Trois Petits Hurans,5,Huran,,Râle d'agonie : ce serviteur joue 3 gemmes de sang sur chacun de vos Hurans
+14,Sonneur épineux,3,Huran,,Râle d'agonie : vos gemmes de sang donnent +1 ATQ en plus pour cette partie.
+15,Saxophoniste hérissé,2,Huran,,Cri de guerre : vos gemmes de sang donnent +1 PV pour cette partie.
+16,Garde-cadavres,3,Mort-vivant,,Râle d'agonie : invoque trois squelettes 1/1.
+17,Fracasseur des catacombes,5,Mort-vivant,,"Chaque fois que vous voulez invoquer un serviteur, mais qu'il n'y a pas de place dans votre troupe de guerre, donne +2/+1 à vos serviteurs de manière permanentes."
+18,Rôdeuse magmatique,2,Naga,,"Chaque tour, le premier sort de Sorcellerie joué depuis la main sur ce serviteur devient permanent."
+19,Terre-mer,1,Naga,,Confère à un serviteur « Râle d'agonie : invoque un crabe 3/2 » jusqu'au prochain tour.
+20,Adjurateur de gangrefeu,5,Démon,Dragon,"A la fin de votre tour, vos sorts de la taverne donnent +1/+1 en plus pendant cette partie."
+21,Messagère cataclysmique,5,,,"A la fin de votre tour, vous obtenez une copie du dernier sort de la taverne que vous avez lancé."
+22,Ballinda Gîtepierre,6,,,Vos sorts ciblant un serviteur alliés sont lancés deux fois
+23,Vicéquin Blanchette,5,Mort-vivant,Bête,Réincarnation. Ce serviteur est réincarné avec toutes ses caractéristiques et ses mots-clés.
+24,Collectionneur de lames,4,Pirate,,Inflige également des dégâts aux serviteurs adjacents à celui qu'il attaque.
+25,Azérite vivante,5,Elémentaire,,"Chaque fois que vous lancez un sort de la taverne, donne +3/+3 aux Elémentaires qui s'y trouvent pour cette partie."
+26,Raboteur de ligne tellurique,4,Elémentaire,,Cri de guerre et Râle d'agonie : vous obtenez une absorption des arcanes.
+27,Elémentaire du feu de brousse,3,Elémentaire,,"Une fois que ce serviteur a attaqué et tué un serviteur, inflige tout surplus de dégâts à un serviteur adjacent."
+28,Revenant aérien,5,Elémentaire,,"Une fois que vous avez dépensé 7 pièces d'or, lance Vents d'est."
+29,Massacreur coléreux,4,Elémentaire,Démon,"A la fin de votre tour, engloutit le serviteur aux PV les plus élevés dans la taverne afin de gagner ses caractéristiques."
+30,Amirale du ciel Rogers,6,Pirate,,"Une fois que vous avez dépensé 10 pièces d'or, vous obtenez une prime aléatoire."
+31,Corsaire orgueilleux,5,Pirate,,Vos primes sont lancées deux fois.
+32,Pirate intrépide,5,Pirate,,"A la fin de votre tour, donne +2/+2 à votre Pirate le plus à gauche. Recommence pour chaque carte que vous avez jouée pendant ce tour."
+33,Fuyard de navire,6,Pirate,,Râle d'agonie : invoque un pirate du ciel 1/1 qui attaque immédiatement et lui donne l'ATQ de ce serviteur.
+34,Evocateur forgefeu,6,Dragon,,Début de combat : donne +1/+1 à vos Dragons. Ce serviteur s'améliore de manière permanente une fois que vous avez lancé un sort de la taverne.
+35,Garde de terreur fêlé,6,Démon,,"Une fois que vous avez lancé un sort de la taverne, un autre Démon allié engloutit un serviteur de la taverne pour gagner ses caractéristiques."
+36,Poultron,6,Méca,Bête,Vengeance (4) : gagne Bouclier divin et attaque immédiatement.
+37,Stégosaure au pas lourd,4,Bête,,Ralliement : donne +4 ATQ et ce Ralliement à vos autres Bêtes.
+38,Seigneur des égouts,5,Bête,,Râle d'agonie : invoque deux rats d'égout qui invoquent des tortues 2/3 avec Provocation. 
+39,Rat d'égout,2,Bête,,Râle d'agonie : invoque une tortue 2/3 avec Provocation.
+40,Sabre-de-mana,1,Bête,,Râle d'agonie : invoque deux tigrelins 0/1 avec Provocation.
+41,"Malchezaar, prince du rythme",4,Démon,,"Chaque tour, quatre actualisations coûtent des PV plutôt que des pièces d'or."
+42,Corrupteur cendreux,5,Démon,,"Une fois que votre héros ou héroïne a subi des dégâts, rembobine et donne +1/+1 aux serviteurs dans la taverne pendant ce tour."
+43,Conquérant absolue,6,Démon,,"Chaque fois qu'un serviteur est englouti, donne +1/+1 aux serviteurs de la taverne pendant cette partie."
+44,Garde-courroux maléfique ,5,Démon,,"Une fois que vous avez vendu un serviteur, ajoute deux cartes Chair à démon à votre prochaine actualisation."
+45,Réenrouleur d'âme,2,Démon,,"Une fois que votre héros ou héroïne a subi des dégâts, rembobine et donne +1 PV à ce serviteur."
+46,Assistant de laboratoire,2,Démon,,Cri de guerre : ajoute une carte Chair à démon à vos 3 prochaines actualisations.
+47,Gangroptère affamé,6,Démon,,"A la fin de votre tour, vos Démons engloutissent chacun un serviteur dans la taverne afin de gagner ses caractéristiques."
+48,Assembleur auto,3,Méca,,Magnétisme. Râle d'agonie : invoque un automate ancestral.
+49,Apprentie de Kangor,5,Méca,,Râle d'agonie : invoque des copies non dorées de vos 2 premiers Méca morts pendant ce combat.
+50,Automate ancestral,2,Méca,,A +3/+2 pour chaque autre automate ancestral que vous avez invoqué pendant la partie (où qu'il soit).
+51,Ca donne de la banane,4,Bête,,"Une fois que vous avez invoqué une Bête au combat, son ATQ est doublée."
+52,Léviathan embusqué,5,Bête,,"Chaque fois que vous invoquez une Bête, lui donne +2 ATQ et améliore définitivement cette carte."
+53,Requin-tigre en chasse,4,Bête,,Cri de guerre : découvre une Bête.
+54,"Goldrinn, le grand loup",6,Bête,,"Râle d'agonie : pendant le reste du combat, vos Bêtes ont +8/+8."
+55,Fourrageur boueux,4,Murloc,,"Début du combat : si vous avez de la place, invoque le serviteur de votre main ayant l'ATQ la plus élevée pour ce combat uniquement."
+56,Crache-bile,5,Murloc,,Venimosité. Ralliement : confère Venimosité à un autre Murloc allié.
+57,Spore mortelle,3,,,Venimosité.
+58,Hurleglobe,3,Huran,Naga,"Chaque fois qu'un sort est lancé sur ce serviteur, gagne Venimosité jusqu'au prochain tour."
+59,Probable perdante héroïque,4,,,Camouflage. Ralliement : gagne l'ATQ de la cible.
+60,Trafiquante de gemmes,5,Huran,,Cri de guerre : ce serviteur joue 2 gemmes de sang sur chacun de vos autres serviteurs.
+61,Dvorak-Hirsute,6,Huran,,Vengeance (2) : ce serviteur joue 2 gemmes de sang sur chacun de vos Hurans.
+62,Parlelianes,6,Huran,,"Une fois qu'un serviteur allié avec Râle d'agonie meurt, vos gemmes de sang donnent +1 ATQ en plus pendant cette partie."
+63,Tarecgosa,2,Dragon,,Ce serviteur garde définitivement ses mots-clés bonus et les caractéristiques gagnées en combat.
+64,Les Trois Petits Hurans,5,Huran,,Râle d'agonie : ce serviteur joue 3 gemmes de sang sur chacun de vos Hurans
+65,Roncicultrice rougebroche,4,Huran,,"A la fin de votre tour, vous obtenez une gemme de sang qui confère aussi Réincarnation à un Huran."
+66,Seigneur de guerre gosier-moiré,2,Huran,,Râle d'agonie : invoque deux Hurans 1/1 avec Provocation. Ce serviteur joue une gemme de sang sur eux.
+67,Chaman chanteterre,6,Huran,,"Furie des vents. A la fin de votre tour, joue une gemme de sang sur chacun de vos serviteur. Recommence pour chaque mot-clé bonus que ce serviteur a."
+68,Marteleuse de terre,6,Naga,,"Une fois que vous avez joué un Naga, gagne +1/+1. (S'améliore tous les 4 sorts que vous avez lancés pendant cette partie!)"
+69,Stratège sombrecrête,5,Naga,,Sorcellerie : vous obtenez
+70,Recruteur des grands foonds,4,Naga,,Ralliement : lance Choix du chef sur le serviteur à sa droite.
+71,Brillécaille,5,Naga,,Provocation. Sorcellerie : confère Bouclier divin à un serviteur jusqu'au prochain tour.
+72,Boucher tombedrust,5,Mort-vivant,,Vengeance (4) : vous obtenez un abattage.
+73,Médiante sereine,5,Naga,,Sorcellerie : vos sorts de la taverne donnent +1/+1 en plus pendant cette partie.
+74,Invocatrice éternelle,6,Mort-vivant,,Réincarnation. Râle d'agonie : invoque un chevalier éternnel.
+75,Momification,3,Mort-vivant,,Râle d'agonie : confère Réincarnation à un autres Mort-vivant allié.
+76,Tisserande réprouvée,6,Mort-vivant,,"Chaque fois que vous lancez un sort de la taverne, vos Mort-vivants ont +1ATQ pendant cette partie (où qu'ils soient)."
+77,"Plaie-de-Nuit, embrasé",6,Mort-vivant,Dragon,Provocation. Râle d'agonie : donne le montant d'ATQ de ce serviteur à 2 serviteurs alliés différents.
+78,Garde draconique,5,Dragon,,Cri de guerre et Râle d'agonie : vous obtenez un chromadrake aléatoire.
+79,"Kalecgos, Aspect des Arcanes",6,Dragon,,"Une fois que vous avez déclenché un Cri de guerre, donne +2/+2 à vos Dragons."
+80,Veilleur d'ambre,3,Dragon,,Provocation. Début de combat : donne +2/+2 et Bouclier divin à un autre dragon allié.
