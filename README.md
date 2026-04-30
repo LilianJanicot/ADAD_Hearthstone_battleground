@@ -2,16 +2,16 @@
 
 Hearthstone est un jeu vidéo de cartes. Son mode de jeu de type auto-chess où la prise de décision est le coeur du gameplay : vos tours s'alternent entre phases d'achat de serviteurs pour renforcer votre armée et phase de combat où vos serviteurs se battent automatiquement sans commande de votre part.
 
-L'objectif est donc de créer une armée capable de vaincre vos adversaires. Plusieurs sites proposent des compositions de serviteurs permettant d'obtenir une armée puissante. Le site le plus connu pour cela est (HSReplay.net)[https://hsreplay.net/battlegrounds/comps/].
+L'objectif est donc de créer une armée capable de vaincre vos adversaires. Plusieurs sites proposent des compositions de serviteurs permettant d'obtenir une armée puissante. Le site le plus connu pour cela est [HSReplay.net](https://hsreplay.net/battlegrounds/comps/).
 Cependant, le site manque de de quelques informations cruciales :
 - les serviteurs possèdent des archétypes (Mort-vivant, Dragon, ...). Il y a 10 archétypes au total mais uniquement 5 archétypes seront disponibles par partie, rendant certaines compositions impossibles à recréer,
 - les compositions se créaient graduellement, il faut donc connaître des cartes "enablers" qui permettent de changer une armée de début de partie en une armée forte de fin de partie. Ces cartes sont indiquées sur la page de chaque composition mais n'est pas pratique puisqu'on ne peut pas voir les enablers de toutes les compos en même temps
 - finalement, les pages de compositions sont plutôt longues car elles sont jolies. Cependant, cela n'est pas pratique en partie. On souhaite avoire toutes les informations côte-à-côte afin de minimiser le temps de recherche et maximiser son temps de réflexion avant la prochaine phase.
 
-Ainsi, j'ai crée ce site en utilisant le module streamlit (python) afin de corriger ces erreurs. Le site est basé sur les données de (HSReplay.net)[https://hsreplay.net/battlegrounds/comps/]. Les données que j'ai importé datent de 30/04/26. Le site et les données sont en français.
+Ainsi, j'ai crée ce site en utilisant le module streamlit (python) afin de corriger ces erreurs. Le site est basé sur les données de [HSReplay.net](https://hsreplay.net/battlegrounds/comps/). Les données que j'ai importé datent de 30/04/26. Le site et les données sont en français.
 
-### Comment lancer le site
-#### Installation des modules
+## Comment lancer le site
+### Installation des modules
 Cette partie a besoin d'être lancé une unique fois au moment de l'installation du projet.
 Cloner le projet :
 ```
@@ -26,7 +26,7 @@ Installer les modules :
 pip install -r requirements.txt
 ```
 
-#### Lancer le site
+### Lancer le site
 Le site est hébergé localement. Afin de le lancer, il faut ouvrir un terminal de commande est allé jusqu'au dossier du projet :
 ```
 cd <moncheminversledossier>
