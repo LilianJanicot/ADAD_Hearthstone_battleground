@@ -34,7 +34,7 @@ id,card_name,rank,race1,race2,effet
 33,Fuyard de navire,6,Pirate,,Râle d'agonie : invoque un pirate du ciel 1/1 qui attaque immédiatement et lui donne l'ATQ de ce serviteur.
 34,Evocateur forgefeu,6,Dragon,,Début de combat : donne +1/+1 à vos Dragons. Ce serviteur s'améliore de manière permanente une fois que vous avez lancé un sort de la taverne.
 35,Garde de terreur fêlé,6,Démon,,"Une fois que vous avez lancé un sort de la taverne, un autre Démon allié engloutit un serviteur de la taverne pour gagner ses caractéristiques."
-36,Poultron,6,Méca,Bête,Vengeance (4) : gagne Bouclier divin et attaque immédiatement.
+36,,,,,
 37,Stégosaure au pas lourd,4,Bête,,Ralliement : donne +4 ATQ et ce Ralliement à vos autres Bêtes.
 38,Seigneur des égouts,5,Bête,,Râle d'agonie : invoque deux rats d'égout qui invoquent des tortues 2/3 avec Provocation. 
 39,Rat d'égout,2,Bête,,Râle d'agonie : invoque une tortue 2/3 avec Provocation.
@@ -71,7 +71,7 @@ id,card_name,rank,race1,race2,effet
 70,Recruteur des grands foonds,4,Naga,,Ralliement : lance Choix du chef sur le serviteur à sa droite.
 71,Brillécaille,5,Naga,,Provocation. Sorcellerie : confère Bouclier divin à un serviteur jusqu'au prochain tour.
 72,Boucher tombedrust,5,Mort-vivant,,Vengeance (4) : vous obtenez un abattage.
-73,Médiante sereine,5,Naga,,Sorcellerie : vos sorts de la taverne donnent +1/+1 en plus pendant cette partie.
+73,Méditante sereine,5,Naga,,Sorcellerie : vos sorts de la taverne donnent +1/+1 en plus pendant cette partie.
 74,Invocatrice éternelle,6,Mort-vivant,,Réincarnation. Râle d'agonie : invoque un chevalier éternnel.
 75,Momification,3,Mort-vivant,,Râle d'agonie : confère Réincarnation à un autres Mort-vivant allié.
 76,Tisserande réprouvée,6,Mort-vivant,,"Chaque fois que vous lancez un sort de la taverne, vos Mort-vivants ont +1ATQ pendant cette partie (où qu'ils soient)."
@@ -79,3 +79,18 @@ id,card_name,rank,race1,race2,effet
 78,Garde draconique,5,Dragon,,Cri de guerre et Râle d'agonie : vous obtenez un chromadrake aléatoire.
 79,"Kalecgos, Aspect des Arcanes",6,Dragon,,"Une fois que vous avez déclenché un Cri de guerre, donne +2/+2 à vos Dragons."
 80,Veilleur d'ambre,3,Dragon,,Provocation. Début de combat : donne +2/+2 et Bouclier divin à un autre dragon allié.
+81,Ancêtre sombregarde,5,Huran,,"Chaque fois que vous dépensez 8 pièces d'or, ce serviteur joue deux gemmes de sang sur chacun de vos Hurans."
+82,Ritualiste engagé,4,Huran,,"Une fois par tour, une fois qu'une gemme de sang a été jouée sur ce serviteur, vous gagnez 2 pièces d'or"
+83,Géomage Roogug,4,Huran,,"Bouclier divin. Chaque fois qu'une gemme de sang est jouée sur lui, ce serviteur joue une gemme de sang sur un autre serviteur allié."
+84,Peintre primitif,6,Murloc,,"Une fois que vous avez joué une carte de niveau 3 ou inférieur, donne +1/+2 à vos Murlocs."
+85,Aviatrice confirmée,2,Murloc,,Ralliement : invoque le serviteur de votre main ayant l'ATQ la plus élevée pour ce combat uniquement.
+86,Mycologue murdrake,6,Murloc,,"Une fois par tour, après que vous avez acheté un sort de la taverne, vous obtenez un Murloc 1/1 et lui enseignez ce sort."
+87,Secrétaileron comptable,4,Murloc,,"Une fois que vous avez joué un Murloc, gagne +4/+4 tant que vous avez cette carte dans votre main."
+88,Chroale de Murlocs,6,Murloc,,Débute du combat : gagne les caractéristiques de tous les serviteurs de votre main.
+89,Cousin Errgl,5,Murloc,,"A la fin de votre tour, vous obtenez une maman ou un papa Mrrglton."
+90,Murloc cambrioleur,5,Murloc,,"Une fois que vous avez joué un Murloc, donne +5/+4 à un autre serviteur allié et un serviteur dans votre main."
+91,Porteur d'anneaux,6,Dragon,,"Chaque fois qu'un serviteur allié attaque, lance Anneau brillant."
+92,Mères des couvées du Crépuscule,4,Dragon,,Râle d'agonie : invoque 2 jeunes dragons du Crépuscule. Leur confère Provocation.
+93,Emergence du Maelström,5,Naga,,Vous lancez vos sorts de la taverne une fois supplémentaire en combat.
+94,Jeune dragon du Crépuscule,1,Dragon,,Râle d'agonie : invoque un dragonnet 3/3 qui attaque immédiatement.
+95,Garde de la reine impitoyable,6,Naga,,"Crie de guerre, Râle d'agonie et Ralliement : lance Ordres de la reine."

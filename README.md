@@ -8,7 +8,7 @@ Cependant, le site manque de de quelques informations cruciales :
 - les compositions se créaient graduellement, il faut donc connaître des cartes "enablers" qui permettent de changer une armée de début de partie en une armée forte de fin de partie. Ces cartes sont indiquées sur la page de chaque composition mais n'est pas pratique puisqu'on ne peut pas voir les enablers de toutes les compos en même temps
 - finalement, les pages de compositions sont plutôt longues car elles sont jolies. Cependant, cela n'est pas pratique en partie. On souhaite avoire toutes les informations côte-à-côte afin de minimiser le temps de recherche et maximiser son temps de réflexion avant la prochaine phase.
 
-Ainsi, j'ai crée ce site en utilisant le module streamlit (python) afin de corriger ces erreurs. Le site est basé sur les données de [HSReplay.net](https://hsreplay.net/battlegrounds/comps/). Les données que j'ai importé datent de 30/04/26. Le site et les données sont en français.
+Ainsi, j'ai crée ce site en utilisant le module streamlit (python) afin de corriger ces erreurs. Le site est basé sur les données de [HSReplay.net](https://hsreplay.net/battlegrounds/comps/). Les données que j'ai importé datent de 03/05/26. Le site et les données sont en français.
 
 ## Comment lancer le site
 ### Installation des modules
@@ -38,6 +38,8 @@ streamlit run main.py
 Le site sera lancé jusqu'à que vous appuyez sur Ctrl+C dans le terminal.
 
 Le site s'ouvrira automatiquement sur votre navigateur. Si ce n'est pas le cas, Shift+ClicGauche sur l'IP affiché dans votre terminal
+
+Il est possible de créer un fichier .bat pour lancer ces commandes avec un exécutable. Vous pouvez aussi en créer un raccourci pour rendre le fichier plus accessibles.
 
 ### Contenu
 Dans la barre qui s'affiche, sélectionner les 5 archétypes présents dans votre partie. Rien ne sera affiché tant qu'il n'y a pas exactement 5 archétypes. Après la sélection, des tableaux vont s'afficher. Cette action peut prendre quelques secondes.
